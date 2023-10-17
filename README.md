@@ -3,7 +3,7 @@ General purpose PowerShell scripts that I've created for various uses. I am by n
 As these are just Powershell cmdlets that I've organized a certain way, they are free to copy and use if you happen to have a use-case for one.
 #
 <b>How to run:</b>
-If you've never ran a Powershell script before, you'll need to enable Powershell to execute them with the following command
+If you've never ran a Powershell script before, you'll need to first of all run Powershell as Administrator and then enable Powershell to execute them with the following command
 ```
 Set-ExecutionPolicy Bypass
 ```
