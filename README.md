@@ -1,5 +1,5 @@
 # PowerShell-Scripts
-General purpose PowerShell scripts that I've created for various uses. Many of them will be for Azure and will have the script name start with Azure_ for clarification. I am by no means a professional PowerShell user and mostly create these scripts in order to practice and learn the limitations of PowerShell on a home computer. I thoroughly test each script to ensure functionality but will place caveats in the notes if anything doesn't perform efficiently.
+General purpose PowerShell scripts that I've created for various uses. Many of them will be for Azure and will have the script name start with Azure_ for clarification. I am by no means a professional PowerShell user and mostly create these scripts in order to practice and learn the limitations of PowerShell in a home computer environment. I thoroughly test each script to ensure functionality but will place caveats in the notes if anything doesn't perform efficiently.
 As these are just Powershell cmdlets that I've organized a certain way, they are free to copy and use if you happen to have a use-case for one.
 #
 <b>How to run:</b>
